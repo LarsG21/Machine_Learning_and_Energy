@@ -33,22 +33,22 @@ This Project contains Exercises from the Module Machine Learnig and Energy that 
 
 * Ex0: Solving an electrical circuit
 <p align="center">
-  <img src="./Recources/circuit.png"width="250" />
+  <img src="./Recources/circuit.PNG"width="250" />
 </p>
 
 * Ex1: Optimization and gradient decent
 <p align="center">
-  <img src="./Recources/optimization.png"width="700" />
+  <img src="./Recources/optimization.PNG"width="700" />
 </p>
 
 * Ex2 power plant: Optimization using linesearch and gradient decent, KNN regressor, cross validation
 <p align="center">
-  <img src="./Recources/knn_regression.png"width="700" />
+  <img src="./Recources/knn_regression.PNG"width="700" />
 </p>
 
 * Ex3 load forcasting: Linear regression, polynomial features
 <p align="center">
-  <img src="./Recources/load_forcast.png"width="700" />
+  <img src="./Recources/load_forcast.PNG"width="700" />
 </p>
 
 * Ex4 Electrical Failure Analysis: 
@@ -80,6 +80,6 @@ This Project contains Exercises from the Module Machine Learnig and Energy that 
 * Ex9 Probabilistic Graphical Models: Computing probabilities
 
 <p align="center">
-  <img src="./Recources/gm2.jpg"width="700" />
+  <img src="./Recources/GM2.jpg"width="700" />
 </p>
 
